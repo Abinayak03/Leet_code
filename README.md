@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1948-rearrange-products-table](https://github.com/Abinayak03/Leet_code/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Abinayak03/Leet_code/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/Abinayak03/Leet_code/tree/master/2057-count-salary-categories) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abinayak03/Leet_code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
