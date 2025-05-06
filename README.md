@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abinayak03/Leet_code/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
