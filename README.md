@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abinayak03/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Abinayak03/Leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
