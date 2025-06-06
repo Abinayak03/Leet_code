@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abinayak03/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0065-valid-number](https://github.com/Abinayak03/Leet_code/tree/master/0065-valid-number) |
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
