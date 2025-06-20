@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Abinayak03/Leet_code/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -73,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Abinayak03/Leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abinayak03/Leet_code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abinayak03/Leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abinayak03/Leet_code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
