@@ -10,7 +10,7 @@ class Solution:
             types[fruits[r]]+=1
 
             while len(types)>2:
-                max_len = max(max_len, r-left)
+                #max_len = max(max_len, r-left)
                 types[fruits[left]]-=1
                 if types[fruits[left]]==0:
                     del types[fruits[left]]
