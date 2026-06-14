@@ -1,13 +1,18 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        freq = {0:-1}
-        prefix_sum = 0
-        for i in range(len(nums)):
-            prefix_sum += nums[i]
-            if prefix_sum%k in freq and i-freq[prefix_sum%k] >=2:
-                return True
-            if prefix_sum % k not in freq:
-                freq[prefix_sum % k] = i
+        first = {0: -1}
+        prefix = 0
+
+        for i, num in enumerate(nums):
+            prefix += num
+            rem = prefix % k
+
+            if rem in first:
+                if i - first[rem] >= 2:
+                    return True
+            else:
+                first[rem] = i
+
         return False
 
         '''for i in range(len(nums)-1):
