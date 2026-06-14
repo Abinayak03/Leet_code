@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Abinayak03/Leet_code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abinayak03/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Abinayak03/Leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abinayak03/Leet_code/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abinayak03/Leet_code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abinayak03/Leet_code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Abinayak03/Leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinayak03/Leet_code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
