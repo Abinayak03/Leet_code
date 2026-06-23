@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Abinayak03/Leet_code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abinayak03/Leet_code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abinayak03/Leet_code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Abinayak03/Leet_code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abinayak03/Leet_code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
