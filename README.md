@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Abinayak03/Leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abinayak03/Leet_code/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
