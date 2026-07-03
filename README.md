@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abinayak03/Leet_code/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Abinayak03/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Abinayak03/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
