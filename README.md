@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Abinayak03/Leet_code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abinayak03/Leet_code/tree/master/0217-contains-duplicate) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Abinayak03/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
