@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abinayak03/Leet_code/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Abinayak03/Leet_code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Abinayak03/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Abinayak03/Leet_code/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Abinayak03/Leet_code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abinayak03/Leet_code/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Abinayak03/Leet_code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Abinayak03/Leet_code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abinayak03/Leet_code/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Abinayak03/Leet_code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -249,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abinayak03/Leet_code/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Abinayak03/Leet_code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
