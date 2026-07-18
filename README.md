@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abinayak03/Leet_code/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1755-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/master/1755-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abinayak03/Leet_code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abinayak03/Leet_code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abinayak03/Leet_code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abinayak03/Leet_code/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abinayak03/Leet_code/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abinayak03/Leet_code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abinayak03/Leet_code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abinayak03/Leet_code/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abinayak03/Leet_code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abinayak03/Leet_code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
