@@ -3,16 +3,13 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
         ans = [[0] * n for _ in range(m)]
-
         total = m * n
         k %= total
 
         for i in range(m):
             for j in range(n):
-
                 # Flatten the matrix index.
                 idx = i * n + j
-
                 # New position after shift.
                 nxt = (idx + k) % total
 
