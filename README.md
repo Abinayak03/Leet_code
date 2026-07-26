@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abinayak03/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abinayak03/Leet_code/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abinayak03/Leet_code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abinayak03/Leet_code/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abinayak03/Leet_code/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Abinayak03/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Abinayak03/Leet_code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
