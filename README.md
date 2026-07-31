@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abinayak03/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abinayak03/Leet_code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abinayak03/Leet_code/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abinayak03/Leet_code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abinayak03/Leet_code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abinayak03/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abinayak03/Leet_code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abinayak03/Leet_code/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/Abinayak03/Leet_code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abinayak03/Leet_code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Abinayak03/Leet_code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abinayak03/Leet_code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abinayak03/Leet_code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
