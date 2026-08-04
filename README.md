@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Abinayak03/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abinayak03/Leet_code/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abinayak03/Leet_code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abinayak03/Leet_code/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abinayak03/Leet_code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abinayak03/Leet_code/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Abinayak03/Leet_code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abinayak03/Leet_code/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -364,4 +367,16 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abinayak03/Leet_code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
