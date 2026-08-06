@@ -1,8 +1,17 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
+        while True:
+            product = 1
+            x = n
 
-        for i in range(n, n + 10):
-            if reduce(mul, map(int,str(i))) %t == 0: return i
+            while x > 0:
+                product *= x % 10
+                x //= 10
+
+            if product % t == 0:
+                return n
+
+            n += 1
 
 
 
