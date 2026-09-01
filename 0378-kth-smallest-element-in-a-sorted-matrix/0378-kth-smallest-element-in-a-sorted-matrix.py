@@ -4,15 +4,16 @@ class Solution:
 
         low = mat[0][0]
         high = mat[n - 1][n - 1]
-
+        ans = low
         while low<=high:
             mid = (low+high)//2
             if self.countLessEqual(mat, n, mid, k):
+                ans = mid
                 high = mid-1
             else:
                 low = mid+1
 
-        return low
+        return ans
 
     def countLessEqual(self, mat: List[List[int]], n: int, target: int, k: int) -> bool:
         row = n - 1
