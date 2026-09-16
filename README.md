@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Abinayak03/Leet_code/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Abinayak03/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abinayak03/Leet_code/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Abinayak03/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abinayak03/Leet_code/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Abinayak03/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Abinayak03/Leet_code/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Abinayak03/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abinayak03/Leet_code/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Abinayak03/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinayak03/Leet_code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abinayak03/Leet_code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abinayak03/Leet_code/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
