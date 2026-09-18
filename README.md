@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Abinayak03/Leet_code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abinayak03/Leet_code/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1755-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/master/1755-defuse-the-bomb) |
 | [1901-find-a-peak-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Abinayak03/Leet_code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinayak03/Leet_code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abinayak03/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1755-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/master/1755-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
