@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2490-circular-sentence](https://github.com/Abinayak03/Leet_code/tree/main/2490-circular-sentence/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abinayak03/Leet_code/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abinayak03/Leet_code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abinayak03/Leet_code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Abinayak03/Leet_code/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Abinayak03/Leet_code/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abinayak03/Leet_code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
