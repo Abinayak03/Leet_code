@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abinayak03/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Abinayak03/Leet_code/tree/main/0162-find-peak-element/) | Medium |
@@ -427,12 +428,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Abinayak03/Leet_code/tree/main/0912-sort-an-array/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
