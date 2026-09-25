@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Abinayak03/Leet_code/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Abinayak03/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abinayak03/Leet_code/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Abinayak03/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Abinayak03/Leet_code/tree/main/0258-add-digits/) | Easy |
+| [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Abinayak03/Leet_code/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
