@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abinayak03/Leet_code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abinayak03/Leet_code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2490-circular-sentence](https://github.com/Abinayak03/Leet_code/tree/main/2490-circular-sentence/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Abinayak03/Leet_code/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Abinayak03/Leet_code/tree/main/1260-shift-2d-grid/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abinayak03/Leet_code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Abinayak03/Leet_code/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
