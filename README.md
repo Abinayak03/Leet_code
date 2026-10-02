@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Abinayak03/Leet_code/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Abinayak03/Leet_code/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abinayak03/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Abinayak03/Leet_code/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Abinayak03/Leet_code/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
