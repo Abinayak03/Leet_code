@@ -3,7 +3,8 @@ class Solution:
         stack = []
 
         for c in s:
-            if stack and c.lower() == stack[-1].lower() and c!=stack[-1]:
+            #if stack and c.lower() == stack[-1].lower() and c!=stack[-1]:
+            if stack and abs(ord(c) - ord(stack[-1])) == 32:
                 stack.pop()
             else: stack.append(c)
         return "".join(stack)
