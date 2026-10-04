@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Abinayak03/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abinayak03/Leet_code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Abinayak03/Leet_code/tree/main/0162-find-peak-element/) | Medium |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Abinayak03/Leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abinayak03/Leet_code/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Abinayak03/Leet_code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
