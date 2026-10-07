@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
@@ -529,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
