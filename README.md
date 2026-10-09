@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abinayak03/Leet_code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Abinayak03/Leet_code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Abinayak03/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Abinayak03/Leet_code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abinayak03/Leet_code/tree/main/0739-daily-temperatures/) | Medium |
@@ -534,4 +536,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Abinayak03/Leet_code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
