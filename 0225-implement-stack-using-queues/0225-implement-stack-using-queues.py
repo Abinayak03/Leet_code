@@ -1,3 +1,4 @@
+from collections import deque
 class MyStack:
 
     def __init__(self):
@@ -23,7 +24,7 @@ class MyStack:
         return element
 
     def empty(self) -> bool:
-        return len(self.q1) == 0
+        return not self.q1
 
 
 # Your MyStack object will be instantiated and called as such:
