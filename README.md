@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/Abinayak03/Leet_code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Abinayak03/Leet_code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Abinayak03/Leet_code/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abinayak03/Leet_code/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Abinayak03/Leet_code/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/Abinayak03/Leet_code/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -540,4 +542,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Abinayak03/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Abinayak03/Leet_code/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Abinayak03/Leet_code/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 <!---LeetCode Topics End-->
