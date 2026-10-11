@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abinayak03/Leet_code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Abinayak03/Leet_code/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abinayak03/Leet_code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Abinayak03/Leet_code/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abinayak03/Leet_code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abinayak03/Leet_code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abinayak03/Leet_code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abinayak03/Leet_code/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
