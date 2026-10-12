@@ -2,7 +2,7 @@ class Solution:
     def removeKdigits(self, num: str, k: int) -> str:
         stack = []
         for c in num:
-            while stack and k>0 and int(stack[-1]) > int(c):
+            while stack and k>0 and stack[-1] > c:
                 stack.pop()
                 k-=1
             stack.append(c)
