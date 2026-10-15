@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Abinayak03/Leet_code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Abinayak03/Leet_code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Abinayak03/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Abinayak03/Leet_code/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Abinayak03/Leet_code/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abinayak03/Leet_code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abinayak03/Leet_code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
