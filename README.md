@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Abinayak03/Leet_code/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Abinayak03/Leet_code/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Abinayak03/Leet_code/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
