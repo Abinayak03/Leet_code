@@ -48,7 +48,7 @@ class MyStack:
         return self.q.popleft()
 
     def top(self) -> int:
-        return self.q[-1]
+        return self.q[0]
 
     def empty(self) -> bool:
         return len(self.q) == 0'''
