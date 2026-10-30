@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Abinayak03/Leet_code/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abinayak03/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Abinayak03/Leet_code/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abinayak03/Leet_code/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Abinayak03/Leet_code/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/Abinayak03/Leet_code/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
