@@ -12,4 +12,4 @@ class Solution:
         
         while stack and stack[0] =='0':
             stack.pop(0)
-        return "".join(stack if stack else "0")
+        return "".join(stack) if stack else "0"
