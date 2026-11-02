@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abinayak03/Leet_code/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Abinayak03/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abinayak03/Leet_code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Abinayak03/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abinayak03/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/Abinayak03/Leet_code/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Abinayak03/Leet_code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abinayak03/Leet_code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Abinayak03/Leet_code/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinayak03/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abinayak03/Leet_code/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abinayak03/Leet_code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abinayak03/Leet_code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Abinayak03/Leet_code/tree/main/0912-sort-an-array/) | Medium |
 | [1256-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/master/1256-rank-transform-of-an-array) |
