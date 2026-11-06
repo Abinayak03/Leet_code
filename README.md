@@ -593,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abinayak03/Leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
