@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Abinayak03/Leet_code/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abinayak03/Leet_code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Ternary Search
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
