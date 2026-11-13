@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abinayak03/Leet_code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abinayak03/Leet_code/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abinayak03/Leet_code/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abinayak03/Leet_code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
