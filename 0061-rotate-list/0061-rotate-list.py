@@ -19,7 +19,7 @@ class Solution:
         fast = head
         for _ in range(k):
             slow = slow.next
-        while slow and slow.next:
+        while slow.next:
             slow = slow.next
             fast = fast.next
         head2 = fast.next
