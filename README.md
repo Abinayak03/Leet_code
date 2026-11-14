@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abinayak03/Leet_code/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abinayak03/Leet_code/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abinayak03/Leet_code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abinayak03/Leet_code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abinayak03/Leet_code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1652-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1755-defuse-the-bomb](https://github.com/Abinayak03/Leet_code/tree/master/1755-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Abinayak03/Leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abinayak03/Leet_code/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinayak03/Leet_code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abinayak03/Leet_code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Abinayak03/Leet_code/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Abinayak03/Leet_code/tree/main/3904-smallest-stable-index-ii/) | Medium |
