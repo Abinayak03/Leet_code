@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abinayak03/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abinayak03/Leet_code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/Abinayak03/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayak03/Leet_code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abinayak03/Leet_code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Abinayak03/Leet_code/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Abinayak03/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayak03/Leet_code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
