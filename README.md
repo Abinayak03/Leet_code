@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abinayak03/Leet_code/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abinayak03/Leet_code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abinayak03/Leet_code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Abinayak03/Leet_code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2490-circular-sentence](https://github.com/Abinayak03/Leet_code/tree/main/2490-circular-sentence/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Abinayak03/Leet_code/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Abinayak03/Leet_code/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Abinayak03/Leet_code/tree/main/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinayak03/Leet_code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
