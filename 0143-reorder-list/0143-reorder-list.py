@@ -24,11 +24,14 @@ class Solution:
             second.next = prev
             prev = second
             second = Next
-        head2 = prev
 
+        head2 = prev
         curr = head
         while curr and head2:
-            temp = curr.next
+            next1 = curr.next
+            next2 = head2.next
+
             curr.next = head2
-            curr = head2
-            head2 = temp
+            head2.next = next1
+            curr = next1
+            head2 = next2
