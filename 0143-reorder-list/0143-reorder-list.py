@@ -9,7 +9,7 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
         if not head.next or not head.next.next:
-            return head
+            return 
         curr = head
         slow = curr
         fast = curr.next
@@ -27,7 +27,7 @@ class Solution:
 
         head2 = prev
         curr = head
-        while curr and head2:
+        while head2:
             next1 = curr.next
             next2 = head2.next
 
