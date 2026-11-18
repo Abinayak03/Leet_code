@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/Abinayak03/Leet_code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2490-circular-sentence](https://github.com/Abinayak03/Leet_code/tree/main/2490-circular-sentence/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abinayak03/Leet_code/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abinayak03/Leet_code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Abinayak03/Leet_code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
