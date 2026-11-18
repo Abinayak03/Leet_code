@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Abinayak03/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Abinayak03/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Abinayak03/Leet_code/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayak03/Leet_code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Abinayak03/Leet_code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/Abinayak03/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Abinayak03/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Abinayak03/Leet_code/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Abinayak03/Leet_code/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Abinayak03/Leet_code/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/Abinayak03/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abinayak03/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0092-reverse-linked-list-ii](https://github.com/Abinayak03/Leet_code/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Abinayak03/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Abinayak03/Leet_code/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abinayak03/Leet_code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abinayak03/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
