@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abinayak03/Leet_code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abinayak03/Leet_code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abinayak03/Leet_code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abinayak03/Leet_code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Abinayak03/Leet_code/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abinayak03/Leet_code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/Abinayak03/Leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abinayak03/Leet_code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abinayak03/Leet_code/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abinayak03/Leet_code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abinayak03/Leet_code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abinayak03/Leet_code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abinayak03/Leet_code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abinayak03/Leet_code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abinayak03/Leet_code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abinayak03/Leet_code/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
