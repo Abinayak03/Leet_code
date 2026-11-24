@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Abinayak03/Leet_code/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Abinayak03/Leet_code/tree/main/0143-reorder-list/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abinayak03/Leet_code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abinayak03/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Abinayak03/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -657,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Abinayak03/Leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abinayak03/Leet_code/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
