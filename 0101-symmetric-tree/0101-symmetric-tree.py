@@ -16,7 +16,5 @@ class Solution:
             left_ = isMirror(p.left, q.right)
             right_ = isMirror(p.right, q.left)
             return left_ and right_
-        if root == None:
-            return True
         return isMirror(root.left, root.right)
     
