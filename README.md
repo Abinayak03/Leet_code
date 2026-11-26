@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Abinayak03/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Abinayak03/Leet_code/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Enumeration
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Abinayak03/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -698,5 +700,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Abinayak03/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
