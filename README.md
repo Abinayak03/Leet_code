@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Abinayak03/Leet_code/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Abinayak03/Leet_code/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abinayak03/Leet_code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Abinayak03/Leet_code/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Abinayak03/Leet_code/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -691,4 +694,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abinayak03/Leet_code/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
