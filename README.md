@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Abinayak03/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Abinayak03/Leet_code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abinayak03/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Abinayak03/Leet_code/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abinayak03/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Abinayak03/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0136-single-number](https://github.com/Abinayak03/Leet_code/tree/main/0136-single-number/) | Easy |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Abinayak03/Leet_code/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Abinayak03/Leet_code/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abinayak03/Leet_code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Abinayak03/Leet_code/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Abinayak03/Leet_code/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
