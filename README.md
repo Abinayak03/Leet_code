@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Abinayak03/Leet_code/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Abinayak03/Leet_code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abinayak03/Leet_code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abinayak03/Leet_code/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sliding Window
